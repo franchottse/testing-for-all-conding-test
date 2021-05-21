@@ -2,7 +2,15 @@ Here is a test that I was requested to finish project bootstrapped with [`create
 
 ## Getting Started
 
-First, run the development server:
+First, install all the necessary packages by:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+After installing packages, run the development server:
 
 ```bash
 npm run dev
